@@ -1,0 +1,1 @@
+/home/haswelltitan/venv/bin/python -m deepwalk --input edgelist.txt --format edgelist --number-walks 100 --output embeddings256.txt --walk-length 50 --window-size 5 --representation-size 256 --workers 16
